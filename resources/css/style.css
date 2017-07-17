@@ -1,3 +1,7 @@
+body {
+  background-color: #000000;
+  text-align: center
+}
 h1 {
   font-family: Verdana
   font-size: 50px;
@@ -6,6 +10,22 @@ h1 {
   text-align: center;
 }
 a {
-  color: acquamarine;
+  color: aqua;
   font-size: 16px;
+}
+h2 {
+  font-family: verdana;
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+}
+.description {
+  font-family: verdana;
+  font-size: 21px;
+  color: grey;
+}
+footer {
+  background-color: #000000;
+  text-align: right;
+  color: grey;
 }
